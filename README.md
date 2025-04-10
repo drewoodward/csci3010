@@ -1,2 +1,2 @@
-# csci3010
-computer networks
+# csci3010🛜
+programming assignments for computer networks.
